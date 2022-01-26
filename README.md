@@ -1,4 +1,4 @@
-# remix-nft
+# Remix NFT
 
 NFT Site made with remix by Fred Garingo.
 
